@@ -5,7 +5,7 @@ keywords: null
 author: ZhenYi
 language: zh-CN
 timezone: 'Asia/Shanghai'
-url: https://example.com
+url: https://lazhenyi.github.io
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
